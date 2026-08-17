@@ -1,0 +1,12 @@
+IoT Smart Cold Storage Monitoring System
+
+Components:
+
+1. ESP32 Development Board
+2. DHT11 Temperature and Humidity Sensor
+3. MQ-135 Gas Sensor
+4. 16x2 I2C LCD
+5. Relay Module
+6. Buzzer
+7. Jumper Wires
+8. Power Supply
