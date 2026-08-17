@@ -148,7 +148,6 @@ void loop() {
     sendPushoverAlert(message);
     lastAlertTime = millis();
   }
-
   
   // Serial Monitor
   Serial.println("------ DATA ------");
