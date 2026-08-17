@@ -149,6 +149,7 @@ void loop() {
     lastAlertTime = millis();
   }
 
+  
   // Serial Monitor
   Serial.println("------ DATA ------");
   Serial.print("Temp: "); Serial.println(temp);
