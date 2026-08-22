@@ -272,4 +272,6 @@ Possible future improvements include:
 
 Current status: Working prototype.
 
-The system has been Developed using ESP32 for IoT-based cold storage monitoring.
+## Project Development
+
+Developed using ESP32 for IoT-based cold storage monitoring and alert management.
